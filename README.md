@@ -39,3 +39,7 @@ Contains features like:
 - `Salary_Data_Based_country_and_race.csv` – Dataset used
 
 )
+
+## 🚀 Live App
+👉 [Click here to use the Employee Salary Predictor](https://employeesalaryprediction-tgpwiotythmv3dylucj3ex.streamlit.app)
+
